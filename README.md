@@ -18,9 +18,7 @@
 1. Install nodejs
    ```sh 
    yum -y install nodejs
-   ```
-
-Setup Jenkins job 
+  Setup Jenkins job 
 
 ## Fork nodejs applicaton onto your repository 
 
@@ -41,3 +39,4 @@ Using simple "hello world" application from the [nodejs.org](https://nodejs.org/
    ```
 
 ## To Deploy on nodejs application server 
+#adding second line
